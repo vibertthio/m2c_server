@@ -1,0 +1,9 @@
+matplotlib==2.2.2
+numpy==1.14.2
+pandas==0.21.0
+pypianoroll==0.4.6
+scipy==1.0.0
+SIDEKIT==1.2.3
+torch==0.4.1
+torchvision==0.2.0
+tqdm==4.19.2
